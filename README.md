@@ -4,7 +4,7 @@ ejecutar archivo semantico.exe
 
 Para probar error semantico ingrese 
 
-char m[] = 'Sadiel';
+char m = 'Sadiel';
 
 Y lanzara un error semantico
 
